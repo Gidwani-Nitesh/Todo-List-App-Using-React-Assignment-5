@@ -1,0 +1,21 @@
+.todo-app {
+  display: flex;
+  flex-direction: column;
+  width: 520px;
+  min-height: 450px;
+  background: #161a2b;
+  text-align: center;
+  margin: 100px auto;
+  border-radius: 10px;
+  padding-bottom: 32px;
+  margin-bottom: 20px;
+}
+
+h1{
+    margin: 22px 0;
+    color: white;
+    font-size: 30px;
+    font-family: 'Oleo Script Swash Caps', cursive;
+    text-shadow: 2px 1px 1px rgba(93, 12, 255, 1);
+    word-spacing: 10px;
+  }

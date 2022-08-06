@@ -1,0 +1,23 @@
+
+.nav-bar-container {
+    background: #161a2b;
+    color: #ffffff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 60px;
+    padding: 2px 8rem 2px 3rem;
+    overflow: hidden;
+    min-width:520px;
+}
+
+.nav-title {
+    color: ffffff ;
+    font-size: 45px;
+    font-family: 'Oleo Script Swash Caps', cursive;
+    text-shadow: 2px 1px 1px rgba(93, 12, 255, 1);
+    word-spacing: 10px;
+    padding-left: 50px;
+
+}
+
